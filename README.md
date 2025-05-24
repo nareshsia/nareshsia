@@ -2,11 +2,14 @@
 
 ## 💡 About Me
 
-I’m a passionate and self-driven mobile developer with 3+ years of experience.  
-I specialize in building cross-platform mobile applications using **Flutter & Dart**, and also have solid native experience in **Kotlin** with **Jetpack Compose**.
+Hey da! I'm Mohammed Ibrahim — a mobile app developer with 3+ years of hands-on experience.
 
-I enjoy solving real-world problems through clean code and intuitive design.  
-My goal is to build impactful apps that users love and clients trust.
+These days, I’m working with both **Flutter** and **Kotlin** side by side. I genuinely enjoy building apps in both — Flutter for its flexibility across platforms, and Kotlin with Jetpack Compose for that native Android power.  
+
+I like turning ideas into clean, smooth, and user-friendly apps. Whether it's starting from scratch or jumping into an existing project, I'm always up for building something solid.  
+
+If you’ve got an idea in mind, let’s make it real — simple, fast, and neat. 😎🚀
+
 
 ---
 
