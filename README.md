@@ -49,9 +49,8 @@ Passionate about turning ideas into real, usable products. Whether it’s starti
 
 ## 🌐 Let’s Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 🌍 [Portfolio Website](https://yourportfolio.com)  
-- ✉️ Email: yourmail@example.com  
+- 🔗 [LinkedIn](linkedin.com/in/nareshprabhakar)  
+- ✉️ Email: nareshprabhakar162@gmail.com 
 
 ---
 
