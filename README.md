@@ -41,6 +41,8 @@ Passionate about turning ideas into real, usable products. Whether it’s starti
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 
 ---
 
