@@ -14,12 +14,14 @@ Passionate about turning ideas into real, usable products. Whether it’s starti
 
 ## 💼 What I Do
 
-- ⚙️ Build cross-platform mobile apps using **Flutter**  
-- 📱 Develop native Android apps using **Kotlin + Jetpack Compose**  
-- 🔗 Work with REST APIs, Firebase, and real-time stuff like WebSockets  
-- 🎨 Focus on clean UI, smooth UX, and performance optimization  
-- 📦 Create reusable custom widgets and app components  
-- 🚀 Handle everything from development to Play Store / App Store release  
+- Build production-ready mobile apps using **Flutter** and **Kotlin + Jetpack Compose**
+- Follow **MVVM architecture**, clean code principles, and modular structure
+- Manage state efficiently with **BLoC**, **Provider**, and **GetX**
+- Integrate APIs using **Dio**, **Retrofit**, **Ktor**, and handle DI with **Koin**
+- Work with **Firebase**, **OTP services**, **Payment gateways**, **Call masking**, **ML Kit**, and **Google Maps SDK**
+- Optimize for performance, animations, and architecture scalability
+- Handle full release flow — from dev to **Play Store** / **App Store** launch
+
 
 
 ---
