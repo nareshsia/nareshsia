@@ -51,8 +51,6 @@ Passionate about turning ideas into real, usable products. Whether it’s starti
 
 ## 🌐 Let’s Connect
 
-If you're up for a collab, need help on a project, or just wanna talk code — I'm always around 😎
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nareshprabhakar/)
 [![Gmail](https://img.shields.io/badge/-Mail-EA4335?logo=gmail&logoColor=white)](mailto:nareshprabhakar162@gmail.com)
 
