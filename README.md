@@ -14,12 +14,13 @@ Passionate about turning ideas into real, usable products. Whether it’s starti
 
 ## 💼 What I Do
 
-- 🔧 Build full-stack Flutter apps with clean architecture  
-- 🎨 Design beautiful UIs with Jetpack Compose and Flutter widgets  
-- 🔗 Integrate REST APIs, Firebase, and WebSockets (real-time trading, etc.)  
-- 🛠️ Optimize performance, animations, and responsiveness  
-- 🚀 Handle Play Store / App Store deployment and testing  
-- 📦 Create reusable custom widget packages and app skeletons  
+- ⚙️ Build cross-platform mobile apps using **Flutter**  
+- 📱 Develop native Android apps using **Kotlin + Jetpack Compose**  
+- 🔗 Work with REST APIs, Firebase, and real-time stuff like WebSockets  
+- 🎨 Focus on clean UI, smooth UX, and performance optimization  
+- 📦 Create reusable custom widgets and app components  
+- 🚀 Handle everything from development to Play Store / App Store release  
+
 
 ---
 
