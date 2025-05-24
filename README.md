@@ -1,11 +1,5 @@
 # 👋 Hello, I'm Nareshprabhakar
 
-🚀 Mobile Application Developer | Flutter Enthusiast | Kotlin + Jetpack Compose Dev  
-🎯 3+ years of hands-on experience building scalable and beautiful mobile apps  
-📱 Focused on performance, clean architecture, and delightful UI/UX  
-
----
-
 ## 💡 About Me
 
 I’m a passionate and self-driven mobile developer with 3+ years of experience.  
